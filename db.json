@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  [
+  "formas": "triangulo"
+  "color" : "verde" 
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  [
+  "formas": "circulo",
+  "color": "azul"
+  
+  ]
+  
 }
