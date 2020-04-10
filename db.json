@@ -1,12 +1,6 @@
 {
-  [
+  
   "formas": "triangulo",
   "color" : "verde" 
-  ],
-  [
-  "formas": "circulo",
-  "color": "azul"
-  
-  ]
   
 }
