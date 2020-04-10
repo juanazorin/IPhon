@@ -4,12 +4,12 @@
   "nombre": "PEPE",
   "apellidos" : "apepepe"
   },
-  
+  {
   "id" : 2,
   "nombre": "MANOLO",
   "apellidos" : "manoloapellido"
   },
-  
+  {
   "id" : 3,
   "nombre": "MARUJA",
   "apellidos" : "marujaapellido"
