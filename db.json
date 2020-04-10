@@ -1,4 +1,6 @@
-[
+{ 
+  "empleados" : [
+
   {
   "id" : 1,
   "nombre": "PEPE",
@@ -15,3 +17,4 @@
   "apellidos" : "marujaapellido"
   }
 ]
+    }
